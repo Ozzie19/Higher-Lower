@@ -1,3 +1,4 @@
-Ozgur,3
+Alice,4
 Bob,3
+Ozgur,3
 John,0
