@@ -1,5 +1,11 @@
 # Higher or Lower – Card Game (Java CLI)
 
+## 📚 API Documentation
+
+Full Javadoc is available here:  
+➡️ https://Ozzie19.github.io/Higher-Lower/
+
+
 ## Overview
 This project is an implementation of a command-line *Higher or Lower* card game written in Java.  
 It models a standard 52-card deck, allows the player to guess whether the next card will be higher or lower, tracks lives and scores, and maintains a persistent leaderboard stored on disk.
@@ -12,7 +18,6 @@ The codebase follows industry best practices with an emphasis on:
 - Single Responsibility Principle (SRP)
 - Readability and maintainability
 - Professional testing practices using JUnit 5 and Maven
-
 ---
 
 ## Project Goals
